@@ -16,6 +16,6 @@ input {
 }
 
 .hide-keyboard {
-  position: fixed;
-  top: -2000px;
+  overflow: hidden;
+  height: 0;
 }
